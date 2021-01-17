@@ -1,0 +1,118 @@
+body {
+  font-family: 'consolas', monospace;
+}
+
+h3 {
+  font-family: 'consolas', monospace;
+  color: #003366;
+}
+
+h2 {
+  font-family: 'consolas', monospace;
+  text-align: center;
+  color: #003366;
+}
+
+#title {
+  background-color: #add8e6;
+}
+
+.meet {
+  font-family: 'consolas', monospace;
+  line-height: 1.5;
+  font-size: 2.5rem;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/*Navbar*/
+.navbar {
+  padding: 0 0 4rem;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'consolas', monospace;
+}
+
+/*Button*/
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/*feature section*/
+#features {
+  margin: 7% 7%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+/*font awesome*/
+.icon {
+  color: #add8e6;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #003366;
+}
+
+/*Testimonials*/
+#testimonials {
+  padding: 7%;
+  text-align: center;
+  background-color: #add8e6;
+  font-family: 'consolas', monospace;
+}
+
+.testimonial-image {
+  height: 250px;
+  width: 250px;
+  margin: 20px;
+}
+
+#new {
+  padding: 7%;
+  text-align: center;
+  font-family: 'consolas', monospace;
+}
+
+.audiobook {
+  padding: 30px;
+  height: 250px;
+  width: 250px;
+}
+.audible{
+  padding: 0 90px;
+}
+/*Footer*/
+#footer {
+  padding: 15px;
+  text-align: center;
+  background-color: #add8e6;
+  font-family: 'consolas', monospace;
+}
+a{
+  text-decoration: none;
+  color:#003366;
+  font-family: sans-serif;
+  margin: 10px 20px;
+}
+a:hover{
+  color: white;
+}

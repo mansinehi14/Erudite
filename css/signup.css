@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'consolas', monospace;
+  background-color: #add8e6;
+background-position: center;
+}
+.signup-form{
+  width: 400px;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  background: #fbfbfb;
+  padding: 20px;
+  margin: 8% auto;
+  text-align: center;
+}
+h1 {
+  font-family: 'consolas', monospace;
+  text-align: center;
+  color: #003366;
+
+}
+.input-box{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 80%;
+  border: 1px solid;
+  outline: none;
+}
+button{
+  color: white;
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.sign-btn{
+  background-color: #003366;
+  width: 80%;
+}
+a{
+  text-decoration: none;
+}
+hr{
+  margin-top: 20px;
+  width: 80%;
+}
+.or{
+  background: white;
+  width: 30px;
+  margin:-19px auto 10px;
+}
